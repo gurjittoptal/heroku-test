@@ -1,2 +1,2 @@
 # heroku-test
-testhk
+test
